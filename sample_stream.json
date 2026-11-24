@@ -1,0 +1,35 @@
+[
+  {
+    "engine_id": "R7",
+    "pressure": 300,
+    "rpm": 35000,
+    "temp": 40,
+    "twin": 0.85
+  },
+  {
+    "engine_id": "R12",
+    "gap_hours": 3.0,
+    "pressure": 310,
+    "rpm": 34800,
+    "temp": 42
+  },
+  {
+    "engine_id": "R5",
+    "pressure": 450,
+    "rpm": 35000,
+    "temp": 40
+  },
+  {
+    "engine_id": "R9",
+    "pressure": 280,
+    "rpm": 20000,
+    "temp": 90
+  },
+  {
+    "engine_id": "R20",
+    "pressure": 305,
+    "rpm": 35100,
+    "temp": 41,
+    "twin": 0.4
+  }
+]
