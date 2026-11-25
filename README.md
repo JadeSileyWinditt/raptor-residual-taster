@@ -30,3 +30,7 @@ Copyright © 2026 Jade Siley-Winditt. All rights reserved.
 This taster is provided for evaluation only.  
 The full implementation is **not open source**.  
 Commercial licenses are available — contact for terms.
+
+## Release Date
+
+Prototype release scheduled for January 1, 2027.
